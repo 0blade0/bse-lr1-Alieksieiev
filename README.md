@@ -15,7 +15,7 @@ DeltaPhys
 ## Технології
 
 
-- Мова програмування: JavaScript
+- Мова програмування: JavaScript (Node.js)
 
 - IDE: Visual Studio Code 1.113.0
 
@@ -26,14 +26,14 @@ DeltaPhys
 
 ## Встановлення та запуск
 
-
 ```bash
+git clone [https://github.com/0blade0/bse-lr1-Alieksieiev](https://github.com/0blade0/bse-lr1-Alieksieiev)
 
-git clone https://github.com/username/project.git
+cd bse-lr1-Alieksieiev
 
-cd project
+npm install
 
-python main.py
+node script.js
 
 ```
 
